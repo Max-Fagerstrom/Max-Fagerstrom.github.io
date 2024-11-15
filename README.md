@@ -1,1 +1,0 @@
-# technove300.github.io
