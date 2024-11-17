@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Max Fagerström",
+    "description": "",
+    "home_page_url": "https://max-fagerstrom.github.io",
+    "feed_url": "https://max-fagerstrom.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Max Fagerström"
+    },
+    "items": [
+    ]
+}

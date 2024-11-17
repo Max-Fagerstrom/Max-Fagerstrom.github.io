@@ -1,0 +1,702 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "8246a71af7c2f8e235cab9b3baac61a5"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "20c63eb052ce015288b2bdf5841729f6"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "366561c4c503c68e3af3389ac4d7fb8e"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "3a956b23fcb4d1d63569400ac8588d58"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/dynamic/fonts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/dynamic/fonts/jetbrainsmono",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/dynamic/fonts/jetbrainsmono/jetbrainsmono-italic.woff2",
+        "type": "file",
+        "md5": "ea0a62e6606b4f4b0d534256db7d31cf"
+    },
+    {
+        "path": "/assets/dynamic/fonts/jetbrainsmono/jetbrainsmono.woff2",
+        "type": "file",
+        "md5": "5affdf56bdbffc36af64d2616187b531"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "017385b552f7e0d979e2e2fe6f324015"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "51db36ac9bfaaa60d4fb7a583c143c99"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "c2232aa7558e9517946129d2a1b8c770"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "12d66f2b2cce51311dd05cef039befb6"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "0c70735af58190b563b2940b7a07007a"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "0bb1f41e2e459d23628833c37d8532f0"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "d167697bcc673e5b8139fbdc5b9f5240"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/max-fagerstroem",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/max-fagerstroem/index.html",
+        "type": "file",
+        "md5": "34e8c41df5cd059e69003d07bde3d7fa"
+    },
+    {
+        "path": "demos.html",
+        "type": "file",
+        "md5": "39edecb66e8e6ac7f65bd19b74be34e1"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "779c78afe2c4aeacb0e883e54a1982e0"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "785db319488ec6222cc552599dc0b6d3"
+    },
+    {
+        "path": "gold-beer-and-elvish-blood.html",
+        "type": "file",
+        "md5": "1360c0192c2b21da221d1550a88f6636"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "2db7dc3f96c4e017f32ad9c7e8b117d5"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/sand1-lg.png",
+        "type": "file",
+        "md5": "ff9e0a358dcb83e711a7c9383b21c9e3"
+    },
+    {
+        "path": "/media/posts/1/responsive/sand1-md.png",
+        "type": "file",
+        "md5": "ff9e0a358dcb83e711a7c9383b21c9e3"
+    },
+    {
+        "path": "/media/posts/1/responsive/sand1-sm.png",
+        "type": "file",
+        "md5": "d7bb7a6e8fd243bd324a99ec267dd53e"
+    },
+    {
+        "path": "/media/posts/1/responsive/sand1-xs.png",
+        "type": "file",
+        "md5": "4f80fb5a64ba09f58e0b9381844a83a3"
+    },
+    {
+        "path": "/media/posts/1/responsive/space-lg.png",
+        "type": "file",
+        "md5": "217aa2d1ba7f586d79c7d6d8cd498a03"
+    },
+    {
+        "path": "/media/posts/1/responsive/space-md.png",
+        "type": "file",
+        "md5": "aceed1ee5ffa1e83f42cc41b54e018b4"
+    },
+    {
+        "path": "/media/posts/1/responsive/space-sm.png",
+        "type": "file",
+        "md5": "a757c8cc0e7665dc8159739e93520281"
+    },
+    {
+        "path": "/media/posts/1/responsive/space-xs.png",
+        "type": "file",
+        "md5": "733547b8ffb884def1e226cf13ee3bc7"
+    },
+    {
+        "path": "/media/posts/1/sand1.png",
+        "type": "file",
+        "md5": "222c5bf5ad5eea9b27c29be7b7fb4f09"
+    },
+    {
+        "path": "/media/posts/1/space.png",
+        "type": "file",
+        "md5": "3b28184f3d6ff405566c38b1b9604fe3"
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/0d5b52_0ee2a8869f4047c2bc01286f080b3312~mv2.webp",
+        "type": "file",
+        "md5": "d10f56957c415f43ac4b7da238e83598"
+    },
+    {
+        "path": "/media/posts/2/0d5b52_d460caa688694826965b4509f7c5377f~mv2.webp",
+        "type": "file",
+        "md5": "b642245579ebd17a46f871ef10ff46f9"
+    },
+    {
+        "path": "/media/posts/2/0d5b52_e94f536c119b4d9cb93554ec36ed0a6f~mv2-3.webp",
+        "type": "file",
+        "md5": "8d55045bd40b7168b4029b6e1f49b4eb"
+    },
+    {
+        "path": "/media/posts/2/PXL_20230418_141405429_edited_edited.webp",
+        "type": "file",
+        "md5": "7437113ece1df239ce8bca47ba626b83"
+    },
+    {
+        "path": "/media/posts/2/XuFs_9.png",
+        "type": "file",
+        "md5": "a0443d9ca9d917bf2d891be2cc8eba62"
+    },
+    {
+        "path": "/media/posts/2/ovDnps.png",
+        "type": "file",
+        "md5": "10c94e16d066ba9baec48b257af0011e"
+    },
+    {
+        "path": "media/posts/2/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/responsive/0d5b52_0ee2a8869f4047c2bc01286f080b3312~mv2-lg.webp",
+        "type": "file",
+        "md5": "5ff116025cc073bdce23b32d1cae6d48"
+    },
+    {
+        "path": "/media/posts/2/responsive/0d5b52_0ee2a8869f4047c2bc01286f080b3312~mv2-md.webp",
+        "type": "file",
+        "md5": "5ff116025cc073bdce23b32d1cae6d48"
+    },
+    {
+        "path": "/media/posts/2/responsive/0d5b52_0ee2a8869f4047c2bc01286f080b3312~mv2-sm.webp",
+        "type": "file",
+        "md5": "c1ff209e356871a37a126b4c29b4fc20"
+    },
+    {
+        "path": "/media/posts/2/responsive/0d5b52_0ee2a8869f4047c2bc01286f080b3312~mv2-xs.webp",
+        "type": "file",
+        "md5": "9acd1be225fafe7e1afaa311627284aa"
+    },
+    {
+        "path": "/media/posts/2/responsive/0d5b52_d460caa688694826965b4509f7c5377f~mv2-lg.webp",
+        "type": "file",
+        "md5": "4cfd38b440ea5ed684e3d05be8e4ed6e"
+    },
+    {
+        "path": "/media/posts/2/responsive/0d5b52_d460caa688694826965b4509f7c5377f~mv2-md.webp",
+        "type": "file",
+        "md5": "e693c2118abf6b353f0e37e42066f174"
+    },
+    {
+        "path": "/media/posts/2/responsive/0d5b52_d460caa688694826965b4509f7c5377f~mv2-sm.webp",
+        "type": "file",
+        "md5": "8e373068a05e1761f82e800c68c7a5c4"
+    },
+    {
+        "path": "/media/posts/2/responsive/0d5b52_d460caa688694826965b4509f7c5377f~mv2-xs.webp",
+        "type": "file",
+        "md5": "228a9aa5387e736a48baac1746035015"
+    },
+    {
+        "path": "/media/posts/2/responsive/0d5b52_e94f536c119b4d9cb93554ec36ed0a6f~mv2-3-lg.webp",
+        "type": "file",
+        "md5": "a86c83e6fa54ad913749b6b1d492a020"
+    },
+    {
+        "path": "/media/posts/2/responsive/0d5b52_e94f536c119b4d9cb93554ec36ed0a6f~mv2-3-md.webp",
+        "type": "file",
+        "md5": "5d7a1945e6325d35b31a15725ec4cf81"
+    },
+    {
+        "path": "/media/posts/2/responsive/0d5b52_e94f536c119b4d9cb93554ec36ed0a6f~mv2-3-sm.webp",
+        "type": "file",
+        "md5": "87de6ae4011f6c24f745629cc6c0d5f7"
+    },
+    {
+        "path": "/media/posts/2/responsive/0d5b52_e94f536c119b4d9cb93554ec36ed0a6f~mv2-3-xs.webp",
+        "type": "file",
+        "md5": "54b49da6cdd024e8b0f134841823ade0"
+    },
+    {
+        "path": "/media/posts/2/responsive/PXL_20230418_141405429_edited_edited-lg.webp",
+        "type": "file",
+        "md5": "d03d7e0e8e80a93f4e59f1ca8648eb97"
+    },
+    {
+        "path": "/media/posts/2/responsive/PXL_20230418_141405429_edited_edited-md.webp",
+        "type": "file",
+        "md5": "d03d7e0e8e80a93f4e59f1ca8648eb97"
+    },
+    {
+        "path": "/media/posts/2/responsive/PXL_20230418_141405429_edited_edited-sm.webp",
+        "type": "file",
+        "md5": "41a1f2b2145bb07fdd45cacca8fd85bb"
+    },
+    {
+        "path": "/media/posts/2/responsive/PXL_20230418_141405429_edited_edited-xs.webp",
+        "type": "file",
+        "md5": "d6faacf53e234cb6c37d70c1c85b5ef7"
+    },
+    {
+        "path": "/media/posts/2/responsive/XuFs_9-lg.png",
+        "type": "file",
+        "md5": "c0b7be164e48b6d5f70e08539c8c5686"
+    },
+    {
+        "path": "/media/posts/2/responsive/XuFs_9-md.png",
+        "type": "file",
+        "md5": "aa95523fe6bbb13693f84512d637c399"
+    },
+    {
+        "path": "/media/posts/2/responsive/XuFs_9-sm.png",
+        "type": "file",
+        "md5": "e01ae3a6f44493e5353127b6f363a6f2"
+    },
+    {
+        "path": "/media/posts/2/responsive/XuFs_9-xs.png",
+        "type": "file",
+        "md5": "dec9baf550018cc35f6b1d071c52243a"
+    },
+    {
+        "path": "/media/posts/2/responsive/ovDnps-lg.png",
+        "type": "file",
+        "md5": "b0eec36084f32e6b907d4b45a480ba8b"
+    },
+    {
+        "path": "/media/posts/2/responsive/ovDnps-md.png",
+        "type": "file",
+        "md5": "460427db4f4eaebbe4b47e22cd949187"
+    },
+    {
+        "path": "/media/posts/2/responsive/ovDnps-sm.png",
+        "type": "file",
+        "md5": "dddbf54e1c5c05bd3213dec7196e0a5d"
+    },
+    {
+        "path": "/media/posts/2/responsive/ovDnps-xs.png",
+        "type": "file",
+        "md5": "4b1703c2ff50093907429bbb6977bdc9"
+    },
+    {
+        "path": "media/posts/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/amxS1.png",
+        "type": "file",
+        "md5": "ef95a48444597855bbf331174fea2ef6"
+    },
+    {
+        "path": "/media/posts/3/image.png",
+        "type": "file",
+        "md5": "7b1d0b5ffd29975965e26b9c9d255daf"
+    },
+    {
+        "path": "media/posts/3/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/responsive/amxS1-lg.png",
+        "type": "file",
+        "md5": "75c72877b8e513c5bc9ce1ee8c607451"
+    },
+    {
+        "path": "/media/posts/3/responsive/amxS1-md.png",
+        "type": "file",
+        "md5": "7fad503ceda28b7c29c0f4a413d853aa"
+    },
+    {
+        "path": "/media/posts/3/responsive/amxS1-sm.png",
+        "type": "file",
+        "md5": "e5078c6784b70ded75eccb999ec9f0c0"
+    },
+    {
+        "path": "/media/posts/3/responsive/amxS1-xs.png",
+        "type": "file",
+        "md5": "4053ce48b857063ed079919e144f812c"
+    },
+    {
+        "path": "/media/posts/3/responsive/image-lg.png",
+        "type": "file",
+        "md5": "c014a635d7e1d3f39f6ab45c4f36212c"
+    },
+    {
+        "path": "/media/posts/3/responsive/image-md.png",
+        "type": "file",
+        "md5": "c26701ef93b55f7e0a70e89f4130930c"
+    },
+    {
+        "path": "/media/posts/3/responsive/image-sm.png",
+        "type": "file",
+        "md5": "359af34011f9199a29d47140d8a8d14c"
+    },
+    {
+        "path": "/media/posts/3/responsive/image-xs.png",
+        "type": "file",
+        "md5": "12aedf0d19ba69dd3fc62aba3f3ea10a"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/0d5b52_d460caa688694826965b4509f7c5377f~mv2.webp",
+        "type": "file",
+        "md5": "b642245579ebd17a46f871ef10ff46f9"
+    },
+    {
+        "path": "/media/posts/4/bagrzh.png",
+        "type": "file",
+        "md5": "41f674a62e16dd2bc7ce36786f1964ff"
+    },
+    {
+        "path": "media/posts/4/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/gallery/0EC_YO-thumbnail.png",
+        "type": "file",
+        "md5": "e62465c627062745a3f06bc19efb711e"
+    },
+    {
+        "path": "/media/posts/4/gallery/0EC_YO.png",
+        "type": "file",
+        "md5": "fa83fda4f45ef0dd00d6eda40e3f5b72"
+    },
+    {
+        "path": "/media/posts/4/gallery/27145-thumbnail.png",
+        "type": "file",
+        "md5": "de897c1da60532dadedfa4bbd49a2ce0"
+    },
+    {
+        "path": "/media/posts/4/gallery/27145.png",
+        "type": "file",
+        "md5": "d50c4c67bdacfd7b8e85bf1769d34d07"
+    },
+    {
+        "path": "/media/posts/4/gallery/DEBUG_8992-thumbnail.png",
+        "type": "file",
+        "md5": "0ac16285a03caab65d4401b066e623bd"
+    },
+    {
+        "path": "/media/posts/4/gallery/DEBUG_8992.png",
+        "type": "file",
+        "md5": "bbaa126806dc2414222dbd801d3bdbd0"
+    },
+    {
+        "path": "/media/posts/4/gallery/UBLn3-thumbnail.png",
+        "type": "file",
+        "md5": "91db816fedcfabd1f4221098c74ccf7f"
+    },
+    {
+        "path": "/media/posts/4/gallery/UBLn3.png",
+        "type": "file",
+        "md5": "d956c9b04643e828ece0b1c3f7c5ceb6"
+    },
+    {
+        "path": "/media/posts/4/gallery/ZezO50-thumbnail.png",
+        "type": "file",
+        "md5": "6df4b0233b0ec319d68427e8c84e7a45"
+    },
+    {
+        "path": "/media/posts/4/gallery/ZezO50.png",
+        "type": "file",
+        "md5": "9425f57cdb3145ca33614f2b388ef00f"
+    },
+    {
+        "path": "/media/posts/4/gallery/bagrzh.png",
+        "type": "file",
+        "md5": "41f674a62e16dd2bc7ce36786f1964ff"
+    },
+    {
+        "path": "/media/posts/4/gallery/nGJXUV-thumbnail.png",
+        "type": "file",
+        "md5": "2ce0b6fb05bcc09a76af9a84c27bbd29"
+    },
+    {
+        "path": "/media/posts/4/gallery/nGJXUV.png",
+        "type": "file",
+        "md5": "360af116010189f0f2ce6b9993510390"
+    },
+    {
+        "path": "/media/posts/4/gallery/uF97ad-thumbnail.jpg",
+        "type": "file",
+        "md5": "fa9945a369dbb7c24da697ee519d7f8d"
+    },
+    {
+        "path": "/media/posts/4/gallery/uF97ad.jpg",
+        "type": "file",
+        "md5": "ba9595c11fc1d130f169cd0a548d2238"
+    },
+    {
+        "path": "media/posts/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/responsive/0d5b52_d460caa688694826965b4509f7c5377f~mv2-lg.webp",
+        "type": "file",
+        "md5": "4cfd38b440ea5ed684e3d05be8e4ed6e"
+    },
+    {
+        "path": "/media/posts/4/responsive/0d5b52_d460caa688694826965b4509f7c5377f~mv2-md.webp",
+        "type": "file",
+        "md5": "e693c2118abf6b353f0e37e42066f174"
+    },
+    {
+        "path": "/media/posts/4/responsive/0d5b52_d460caa688694826965b4509f7c5377f~mv2-sm.webp",
+        "type": "file",
+        "md5": "8e373068a05e1761f82e800c68c7a5c4"
+    },
+    {
+        "path": "/media/posts/4/responsive/0d5b52_d460caa688694826965b4509f7c5377f~mv2-xs.webp",
+        "type": "file",
+        "md5": "228a9aa5387e736a48baac1746035015"
+    },
+    {
+        "path": "/media/posts/4/responsive/bagrzh-lg.png",
+        "type": "file",
+        "md5": "35549c9fbea6d1508973cdc09785c111"
+    },
+    {
+        "path": "/media/posts/4/responsive/bagrzh-md.png",
+        "type": "file",
+        "md5": "3eda4969991cdc924aa9c8785fc0185f"
+    },
+    {
+        "path": "/media/posts/4/responsive/bagrzh-sm.png",
+        "type": "file",
+        "md5": "be7211c4f983ed6c02a6689c15d47cb0"
+    },
+    {
+        "path": "/media/posts/4/responsive/bagrzh-xs.png",
+        "type": "file",
+        "md5": "6f82dedca400fe5946c143506a21ecf1"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/2023-08-16-23-09-08.gif",
+        "type": "file",
+        "md5": "ec41e0dbce28eedd1905e91226e6c5ba"
+    },
+    {
+        "path": "media/posts/5/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/gallery/Screenshot-from-2023-06-18-00-28-26-thumbnail.png",
+        "type": "file",
+        "md5": "4f074c35db9ef6a43ee597e10e278375"
+    },
+    {
+        "path": "/media/posts/5/gallery/Screenshot-from-2023-06-18-00-28-26.png",
+        "type": "file",
+        "md5": "98e34e568ad778bb1c5e8277cf43f4bd"
+    },
+    {
+        "path": "/media/posts/5/gallery/cube-thumbnail.png",
+        "type": "file",
+        "md5": "ecad8361c70bc9dd52fbeca18c235806"
+    },
+    {
+        "path": "/media/posts/5/gallery/cube.png",
+        "type": "file",
+        "md5": "384801331b0115424d068f5c8d92262b"
+    },
+    {
+        "path": "/media/posts/5/gallery/image2-thumbnail.png",
+        "type": "file",
+        "md5": "b76af64b125dcbf9ba58a4995f5d26fb"
+    },
+    {
+        "path": "/media/posts/5/gallery/image2.png",
+        "type": "file",
+        "md5": "90d3faea4a9b256e28cf39cf390da1c7"
+    },
+    {
+        "path": "/media/posts/5/gallery/image5-thumbnail.png",
+        "type": "file",
+        "md5": "28d2007aa32b22dbab38fc59287c8938"
+    },
+    {
+        "path": "/media/posts/5/gallery/image5.png",
+        "type": "file",
+        "md5": "1d44cbaa131447677615d8a39a84369f"
+    },
+    {
+        "path": "/media/posts/5/gallery/raycast-thumbnail.png",
+        "type": "file",
+        "md5": "566a48095a4ae2313d9bbcb55da6ee5b"
+    },
+    {
+        "path": "/media/posts/5/gallery/raycast.png",
+        "type": "file",
+        "md5": "2cb1ef3695a55b7b7132aebae6b4bfa9"
+    },
+    {
+        "path": "/media/posts/5/gallery/shading-thumbnail.png",
+        "type": "file",
+        "md5": "cdaa6bab5ac1bbfdc073e12ede1061c8"
+    },
+    {
+        "path": "/media/posts/5/gallery/shading.png",
+        "type": "file",
+        "md5": "7f9abb2765a5fca202863e619a89fbb8"
+    },
+    {
+        "path": "minimal-game-engine.html",
+        "type": "file",
+        "md5": "9145366208bb087564e96b098849d48d"
+    },
+    {
+        "path": "portfolio.html",
+        "type": "file",
+        "md5": "f1fbd43f7b02519e8674bbeca25460da"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "86a06e3eebffc71dcf03d0675eb342d1"
+    },
+    {
+        "path": "shutterseeker.html",
+        "type": "file",
+        "md5": "3f345ad173121f93bd7d6317b84d2411"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "318625565c24afb2f49ade844d9a8874"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "abee9f6b74055fd652a4edf39aa9bb32"
+    }
+]

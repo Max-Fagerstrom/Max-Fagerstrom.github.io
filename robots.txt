@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://max-fagerstrom.github.io/sitemap.xml
