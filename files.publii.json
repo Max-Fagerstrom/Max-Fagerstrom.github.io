@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "ed6d9e5bb2fec16502de3b8954394952"
+        "md5": "01297d40d6dcb0098215c1538d803650"
     },
     {
         "path": "assets",
@@ -127,12 +127,12 @@
     {
         "path": "/authors/max-fagerstroem/index.html",
         "type": "file",
-        "md5": "ba46afe992f172c902913a6adc9aa4e2"
+        "md5": "d16b3fe1457aa9655c69ee038708fd92"
     },
     {
         "path": "demos.html",
         "type": "file",
-        "md5": "97a147ab4e63d742b6913575a8a12cc6"
+        "md5": "c171b158bb9fe3db91b186e9a3392eef"
     },
     {
         "path": "feed.json",
@@ -147,17 +147,17 @@
     {
         "path": "gold-beer-and-elvish-blood.html",
         "type": "file",
-        "md5": "75e8e5f61e6af81119af990753fdfc4c"
+        "md5": "d8fd6843c3860d1f11d9a97cac5b8063"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "cb965a5383a13d3b2133ed74df379956"
+        "md5": "2d190d6ad29113a97009454ca4e4c4a9"
     },
     {
         "path": "iterum.html",
         "type": "file",
-        "md5": "46c6a50c7fd859e6817bcfde02608702"
+        "md5": "b0ec84b3fb0ff41e69ff7fd219a757e8"
     },
     {
         "path": "media",
@@ -837,12 +837,12 @@
     {
         "path": "minimal-game-engine.html",
         "type": "file",
-        "md5": "aa895e46fa256bb2146ada4673c8c691"
+        "md5": "a069d2d4b2c6afea722635033ac557bf"
     },
     {
         "path": "portfolio.html",
         "type": "file",
-        "md5": "378950d171932345e5e51265fa371987"
+        "md5": "71a95c053c4b82f0094e32d266d4d9dd"
     },
     {
         "path": "robots.txt",
@@ -852,12 +852,12 @@
     {
         "path": "shutterseeker.html",
         "type": "file",
-        "md5": "3e5366f480db252c774e35a82837a443"
+        "md5": "695e20b6f9dd1bdcefd4a5ae74a66780"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "4bbba6d34d6f6347a474f6b48d99bf33"
+        "md5": "1038fa4594bf9faf5408f5b43faa58b9"
     },
     {
         "path": "sitemap.xsl",
@@ -872,6 +872,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "2b60e1aa75e83932b42ebc3ba83e0f5b"
+        "md5": "0f00b7c6bb7d8c6757bb9ad4c9450d60"
     }
 ]
