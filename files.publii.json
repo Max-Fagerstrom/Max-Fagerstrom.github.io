@@ -157,7 +157,7 @@
     {
         "path": "iterum.html",
         "type": "file",
-        "md5": "e2a9aa80b40d39be5f917b8167b56efa"
+        "md5": "cf3ec8af57c4c0f8ca231491ccdd1ab0"
     },
     {
         "path": "media",
@@ -815,6 +815,26 @@
         "md5": "0dc0f4883ffd3a47991a8495b0569b00"
     },
     {
+        "path": "/media/posts/6/gallery/Skaermbild-2024-11-26-162659-thumbnail.png",
+        "type": "file",
+        "md5": "98250e5e1cfcccc0c92092317df06444"
+    },
+    {
+        "path": "/media/posts/6/gallery/Skaermbild-2024-11-26-162659.png",
+        "type": "file",
+        "md5": "928676251043d4db99ca866a765291ec"
+    },
+    {
+        "path": "/media/posts/6/gallery/Skaermbild-2024-11-26-162713-thumbnail.png",
+        "type": "file",
+        "md5": "f69ee280b3336c95e006aa013970719b"
+    },
+    {
+        "path": "/media/posts/6/gallery/Skaermbild-2024-11-26-162713.png",
+        "type": "file",
+        "md5": "c1e86b925b9ea8f0c9042b52c17295ca"
+    },
+    {
         "path": "/media/posts/6/gallery/variation-thumbnail.png",
         "type": "file",
         "md5": "737af973484db7ad36229767d70d299f"
@@ -877,7 +897,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "d6f0e27c741a58fbbc995a9136ef5677"
+        "md5": "4879cba23a4ea10cff9328b743da56b7"
     },
     {
         "path": "sitemap.xsl",
