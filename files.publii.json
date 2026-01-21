@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "01297d40d6dcb0098215c1538d803650"
+        "md5": "31d6128a6c191e32154e19ec4a71f596"
     },
     {
         "path": "assets",
@@ -127,12 +127,12 @@
     {
         "path": "/authors/max-fagerstroem/index.html",
         "type": "file",
-        "md5": "d16b3fe1457aa9655c69ee038708fd92"
+        "md5": "d6f80e96edaed4578056afd0d42a6799"
     },
     {
         "path": "demos.html",
         "type": "file",
-        "md5": "c171b158bb9fe3db91b186e9a3392eef"
+        "md5": "6d169023f26d936c62f0413baa0ef9a2"
     },
     {
         "path": "feed.json",
@@ -147,17 +147,17 @@
     {
         "path": "gold-beer-and-elvish-blood.html",
         "type": "file",
-        "md5": "d8fd6843c3860d1f11d9a97cac5b8063"
+        "md5": "fafb69fcbb15d5d97f7147749b158fe1"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "2d190d6ad29113a97009454ca4e4c4a9"
+        "md5": "5e976316db237343f59ccd92b80e5404"
     },
     {
         "path": "iterum.html",
         "type": "file",
-        "md5": "cf3ec8af57c4c0f8ca231491ccdd1ab0"
+        "md5": "b7f198d644d803ef57f62e2e8f273d9a"
     },
     {
         "path": "media",
@@ -755,36 +755,6 @@
         "md5": "e56d1064cc4a0ef2de66272f213e5902"
     },
     {
-        "path": "/media/posts/6/gallery/Skaermbild-2024-09-04-091922-thumbnail.png",
-        "type": "file",
-        "md5": "7d7442c12c0f84db8ce3bf3babdac151"
-    },
-    {
-        "path": "/media/posts/6/gallery/Skaermbild-2024-09-04-091922.png",
-        "type": "file",
-        "md5": "e7e07ed0f0f61db948b401799fe05506"
-    },
-    {
-        "path": "/media/posts/6/gallery/Skaermbild-2024-09-04-092401-thumbnail.png",
-        "type": "file",
-        "md5": "24623e3986618a83e1ef18a19c718195"
-    },
-    {
-        "path": "/media/posts/6/gallery/Skaermbild-2024-09-04-092401.png",
-        "type": "file",
-        "md5": "d89fb1f7700c803574ce419dfd3ac333"
-    },
-    {
-        "path": "/media/posts/6/gallery/Skaermbild-2024-09-09-152902-thumbnail.png",
-        "type": "file",
-        "md5": "ebc47b19ed23abfd0607b709092edb19"
-    },
-    {
-        "path": "/media/posts/6/gallery/Skaermbild-2024-09-09-152902.png",
-        "type": "file",
-        "md5": "10470f48441f5f47513e55803228cd2e"
-    },
-    {
         "path": "/media/posts/6/gallery/Skaermbild-2024-11-07-122653-2-thumbnail.png",
         "type": "file",
         "md5": "572f3981cee1bbf151ad055eb43b1b9c"
@@ -793,26 +763,6 @@
         "path": "/media/posts/6/gallery/Skaermbild-2024-11-07-122653-2.png",
         "type": "file",
         "md5": "79631d08b7110f586e3409114825026d"
-    },
-    {
-        "path": "/media/posts/6/gallery/Skaermbild-2024-11-26-161448-thumbnail.png",
-        "type": "file",
-        "md5": "a6701b7f80aceb2848150f23ba8a4f60"
-    },
-    {
-        "path": "/media/posts/6/gallery/Skaermbild-2024-11-26-161448.png",
-        "type": "file",
-        "md5": "95669ccb7cdc020325309be00eac6ac5"
-    },
-    {
-        "path": "/media/posts/6/gallery/Skaermbild-2024-11-26-161506-thumbnail.png",
-        "type": "file",
-        "md5": "9993b83d8e94fbb98875047d51c55558"
-    },
-    {
-        "path": "/media/posts/6/gallery/Skaermbild-2024-11-26-161506.png",
-        "type": "file",
-        "md5": "0dc0f4883ffd3a47991a8495b0569b00"
     },
     {
         "path": "/media/posts/6/gallery/Skaermbild-2024-11-26-162659-thumbnail.png",
@@ -833,6 +783,66 @@
         "path": "/media/posts/6/gallery/Skaermbild-2024-11-26-162713.png",
         "type": "file",
         "md5": "c1e86b925b9ea8f0c9042b52c17295ca"
+    },
+    {
+        "path": "/media/posts/6/gallery/Skaermbild-2025-07-17-153727-thumbnail.png",
+        "type": "file",
+        "md5": "7957bf03af4230f2a9dc34d62ac6f927"
+    },
+    {
+        "path": "/media/posts/6/gallery/Skaermbild-2025-07-17-153727.png",
+        "type": "file",
+        "md5": "71873c0c5fc80a9d103e1b8bb192c850"
+    },
+    {
+        "path": "/media/posts/6/gallery/Skaermbild-2025-07-17-153740-2-thumbnail.png",
+        "type": "file",
+        "md5": "13e4d239bd57b34aecd1a6fcc1f72979"
+    },
+    {
+        "path": "/media/posts/6/gallery/Skaermbild-2025-07-17-153740-2.png",
+        "type": "file",
+        "md5": "6a4b7ffd32912bafd44868497f79c65e"
+    },
+    {
+        "path": "/media/posts/6/gallery/Skaermbild-2025-07-17-153740-thumbnail.png",
+        "type": "file",
+        "md5": "13e4d239bd57b34aecd1a6fcc1f72979"
+    },
+    {
+        "path": "/media/posts/6/gallery/Skaermbild-2025-07-17-153740.png",
+        "type": "file",
+        "md5": "6a4b7ffd32912bafd44868497f79c65e"
+    },
+    {
+        "path": "/media/posts/6/gallery/Skaermbild-2025-07-17-155723-thumbnail.png",
+        "type": "file",
+        "md5": "61079ef47dd74a7093463aefa4fb630b"
+    },
+    {
+        "path": "/media/posts/6/gallery/Skaermbild-2025-07-17-155723.png",
+        "type": "file",
+        "md5": "911e808653cf5d56e03ea229b5a7eb20"
+    },
+    {
+        "path": "/media/posts/6/gallery/Skaermbild-2026-01-14-105048-thumbnail.png",
+        "type": "file",
+        "md5": "26793a45d6e3a18407aded146fe6ffe8"
+    },
+    {
+        "path": "/media/posts/6/gallery/Skaermbild-2026-01-14-105048.png",
+        "type": "file",
+        "md5": "430c1807d23984b3599c080145cefd2a"
+    },
+    {
+        "path": "/media/posts/6/gallery/Skaermbild-2026-01-14-105105-thumbnail.png",
+        "type": "file",
+        "md5": "e78128ad00da9cfd9bc85b375d5316af"
+    },
+    {
+        "path": "/media/posts/6/gallery/Skaermbild-2026-01-14-105105.png",
+        "type": "file",
+        "md5": "1763a92ba7c263fdf106cf81f7554098"
     },
     {
         "path": "/media/posts/6/gallery/variation-thumbnail.png",
@@ -875,14 +885,69 @@
         "md5": "4e438ccefa4b0610b9a30747bf2b6e1a"
     },
     {
+        "path": "/media/posts/6/responsive/Skaermbild-2025-07-17-155723-lg.png",
+        "type": "file",
+        "md5": "19470440a430523fd5fc08aec309e712"
+    },
+    {
+        "path": "/media/posts/6/responsive/Skaermbild-2025-07-17-155723-md.png",
+        "type": "file",
+        "md5": "61079ef47dd74a7093463aefa4fb630b"
+    },
+    {
+        "path": "/media/posts/6/responsive/Skaermbild-2025-07-17-155723-sm.png",
+        "type": "file",
+        "md5": "12aee18718671f6691fb544796009d8a"
+    },
+    {
+        "path": "/media/posts/6/responsive/Skaermbild-2025-07-17-155723-xs.png",
+        "type": "file",
+        "md5": "0dbca7f5c115d422a571d841498730b6"
+    },
+    {
+        "path": "/media/posts/6/responsive/Skaermbild-2026-01-19-114504-lg.png",
+        "type": "file",
+        "md5": "42f0089cde9a2f8dd6ecdf7357b8949d"
+    },
+    {
+        "path": "/media/posts/6/responsive/Skaermbild-2026-01-19-114504-md.png",
+        "type": "file",
+        "md5": "42f0089cde9a2f8dd6ecdf7357b8949d"
+    },
+    {
+        "path": "/media/posts/6/responsive/Skaermbild-2026-01-19-114504-sm.png",
+        "type": "file",
+        "md5": "42f0089cde9a2f8dd6ecdf7357b8949d"
+    },
+    {
+        "path": "/media/posts/6/responsive/Skaermbild-2026-01-19-114504-xs.png",
+        "type": "file",
+        "md5": "9daf09b94b4cbb5e20f76c9ef3709a5c"
+    },
+    {
+        "path": "/media/posts/6/Skaermbild-2025-07-17-155723.png",
+        "type": "file",
+        "md5": "911e808653cf5d56e03ea229b5a7eb20"
+    },
+    {
+        "path": "/media/posts/6/Skaermbild-2026-01-19-114504.png",
+        "type": "file",
+        "md5": "90e78480428c8a55189af773df09525e"
+    },
+    {
+        "path": "/media/posts/6/SSAO-Gif.gif",
+        "type": "file",
+        "md5": "4dd5e97041ac6f12abca7e1c84742877"
+    },
+    {
         "path": "minimal-game-engine.html",
         "type": "file",
-        "md5": "950619c4aeb2a2381e28d48bc5a78fb6"
+        "md5": "eb739fc823b8359f2ed5d06d57a2c51b"
     },
     {
         "path": "portfolio.html",
         "type": "file",
-        "md5": "42d2e8b10595d800565827aa85848221"
+        "md5": "94d26b609335452d4212f4783ab27baa"
     },
     {
         "path": "robots.txt",
@@ -892,12 +957,12 @@
     {
         "path": "shutterseeker.html",
         "type": "file",
-        "md5": "695e20b6f9dd1bdcefd4a5ae74a66780"
+        "md5": "06cebdfb859b4a7fb2a07a499bc945a0"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "0e34c66b49560c775ebe79474a3c50b0"
+        "md5": "d005a0ff9eb950180d263449c8938d31"
     },
     {
         "path": "sitemap.xsl",
@@ -912,6 +977,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "0f00b7c6bb7d8c6757bb9ad4c9450d60"
+        "md5": "bc139f99146af9e5abcfc920ee011160"
     }
 ]
